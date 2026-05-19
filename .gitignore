@@ -1,0 +1,14 @@
+~$*
+.DS_Store
+Thumbs.db
+desktop.ini
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.env
+*.tmp
+*.log
+node_modules/
+package-lock.json
+.claude/
