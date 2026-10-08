@@ -1,24 +1,21 @@
 # Hi, I'm Ilay Gal 👋
 
-**Data Analytics Instructor** — Python · SQL · Advanced Excel · Power BI · Statistics
+**Data Analyst & Instructor** · SQL · Excel · Power BI · Python · Statistics
 
-I design and deliver full Data Analyst bootcamps for civilian cohorts.
+I turn messy data into reports and dashboards people can make decisions from, and I teach the same tools in full Data Analyst bootcamps for IDF and civilian cohorts.
+
+Available for fixed-price freelance work: Excel cleanup and automation, Power BI dashboards, SQL queries and reports. See my [XPlace profile](https://www.xplace.com/il/u/ilaygal380).
 
 ---
 
-## 📚 Curriculum Repos
+## 📂 Projects
 
-| Repo | What it is |
-|------|-----------|
-| [sql-bootcamp-curriculum](https://github.com/ilaygal/sql-bootcamp-curriculum) | 5-lesson SQL module — slides, handouts, guided practice, Predict-It challenges, solutions |
-| [python-for-analysts-bootcamp](https://github.com/ilaygal/python-for-analysts-bootcamp) | 8 lessons × 4 artifacts + SelfPaced Pack + OOP Deep Dive |
-| [statistics-workshop-series](https://github.com/ilaygal/statistics-workshop-series) | 12 workshops (ANOVA, Chi-Square, A/B, Regression) + Pareto self-study bundle |
-| [google-sheets-5-session-course](https://github.com/ilaygal/google-sheets-5-session-course) | 5 sessions + mock exam |
-| [powerbi-dax-exercise-pack](https://github.com/ilaygal/powerbi-dax-exercise-pack) | DAX exercises (HE+EN) + OneDay capstone + sample dashboards |
-| [advanced-excel-handson](https://github.com/ilaygal/advanced-excel-handson) | HandsOn practice + measure building |
-| [movielens-capstone](https://github.com/ilaygal/movielens-capstone) | End-to-end analyst capstone notebook |
-| [bugfix-challenge-python](https://github.com/ilaygal/bugfix-challenge-python) | 20 intentionally broken Python scripts — debugging drill |
-| [grading-automation-toolkit](https://github.com/ilaygal/grading-automation-toolkit) | Python pipeline: rubric → per-student graded workbook + insight report |
+| Project | What it is |
+|---------|-----------|
+| [sql-bootcamp-curriculum](https://github.com/ilaygal/sql-bootcamp-curriculum) | Full 18-lesson SQL module on the DVD Rental schema: slides, handouts, guided and independent practice, solutions |
+| [study-platform](https://github.com/ilaygal/study-platform) | Statistics study site: 10 topics, 300 practice questions with explanations. [Live site](https://ilaygal.github.io/study-platform/) |
+| [data-proj](https://github.com/ilaygal/data-proj) | Four 90-minute pair-project briefs on real Kaggle datasets. [Live site](https://ilaygal.github.io/data-proj/) |
+| [trip-event](https://github.com/ilaygal/trip-event) | Vacation planning around concerts and sports events (Next.js, TypeScript) |
 
 ---
 
